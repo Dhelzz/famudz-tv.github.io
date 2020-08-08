@@ -1,0 +1,63 @@
+/* CSS files add styling rules to your content */
+
+body {
+  margin: 0;
+  font-size: 20px;
+}
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.judul {
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+  font-style: normal;
+}
+ 
+.cs {
+  color: gray;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+small {
+  text-align: left;
+}
+
+table {
+  text-align: left;
+  top: 0;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  background: #000;
+  border-color: #4d4d4d;
+  border-top: solid 1px;
+  padding: 25px;
+}
+
+.bor {
+  border: 1000;
+  margin: 2em;
+}
+
+.menu {
+  color: white;
+  
+}
+
+.link {
+  color: white;
+}
+
+font {
+  color: blue;
+}

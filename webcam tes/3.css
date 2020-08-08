@@ -1,0 +1,44 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: sans-serif;
+  margin: 0.1em;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+button {
+  background-color: #000000;
+  color: white;
+  border: 1px solid #c2c2c2;
+  border-radius:2px;
+
+}
+
+.link-button{
+  text-decoration: none;
+  background-color: black;
+  color: white;
+  padding: 2px 6px 2px 6px;
+  border: 1px solid #c2c2c2;
+  border-radius:2px;
+}
+
+b {
+  color: red;
+  font-style: Arial;
+}
+
+video {
+  border: 1px solid white;
+}
+
+img {
+  border: 1px solid #c2c2c2;
+  border-radius:2px;
+}
